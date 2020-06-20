@@ -1,0 +1,15 @@
+/home/syed/Desktop/practice/quater3/hello world from rocket/target/debug/deps/cookie-e64b0a530fd93c74.rmeta: /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/lib.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/builder.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/parse.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/jar.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/delta.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/draft.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/secure/mod.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/secure/macros.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/secure/key.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/secure/private.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/secure/signed.rs
+
+/home/syed/Desktop/practice/quater3/hello world from rocket/target/debug/deps/cookie-e64b0a530fd93c74.d: /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/lib.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/builder.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/parse.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/jar.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/delta.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/draft.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/secure/mod.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/secure/macros.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/secure/key.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/secure/private.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/secure/signed.rs
+
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/lib.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/builder.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/parse.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/jar.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/delta.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/draft.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/secure/mod.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/secure/macros.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/secure/key.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/secure/private.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.3/src/secure/signed.rs:

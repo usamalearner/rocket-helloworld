@@ -1,0 +1,14 @@
+/home/syed/Desktop/practice/quater3/hello world from rocket/target/debug/deps/base64-96c69527bf572100.rmeta: /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/lib.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/chunked_encoder.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/display.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/read/mod.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/read/decoder.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/tables.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/write/mod.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/write/encoder.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/encode.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/decode.rs
+
+/home/syed/Desktop/practice/quater3/hello world from rocket/target/debug/deps/base64-96c69527bf572100.d: /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/lib.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/chunked_encoder.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/display.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/read/mod.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/read/decoder.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/tables.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/write/mod.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/write/encoder.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/encode.rs /home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/decode.rs
+
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/lib.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/chunked_encoder.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/display.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/read/mod.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/read/decoder.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/tables.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/write/mod.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/write/encoder.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/encode.rs:
+/home/syed/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.1/src/decode.rs:
